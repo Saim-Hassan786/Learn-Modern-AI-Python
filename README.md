@@ -1,4 +1,3 @@
-
 # 🧠 Modern AI Python
 
 Welcome to **Modern AI Python**, a comprehensive and structured learning repository that covers foundational to advanced Python concepts with a theoretical lens. This course is curated for learners who aim to master Python as a modern tool for AI, data science, and software engineering.
